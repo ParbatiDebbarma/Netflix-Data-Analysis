@@ -2,9 +2,9 @@
 
 Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally
 
-Non-Graphical Analysis: Value counts and unique attributes
+Non-Graphical Analysis provides Value counts and unique attributes
 
-Visual Analysis - Univariate, Bivariate after pre-processing of the data
+Visual Analysis : Univariate, Bivariate after pre-processing of the data
 Note: Pre-processing involves unnesting of the data in columns like Actor, Director, Country
 
 Missing Value & Outlier were detected and fixed
